@@ -73,6 +73,7 @@
     <module>../cpu_features/platform</module>
     <module>../modsecurity/platform</module>
     <module>../systems/platform</module>
+    <module>../libdmtx/platform</module>
   </modules>
 
   <dependencies>
